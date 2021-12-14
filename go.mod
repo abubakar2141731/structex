@@ -1,2 +1,2 @@
-module github.com/abubakar2141731/structex
+module github.com/HewlettPackard/structex
 go 1.14
